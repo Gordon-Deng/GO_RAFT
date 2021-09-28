@@ -14,3 +14,7 @@ Add Schedule:
 4、20210725 start coding (拖延癌。。。)
 
 5、20210725 init raft
+
+6、20210802 add config
+
+7、20210816 finish raft
