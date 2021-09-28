@@ -5,20 +5,14 @@
 
 Add Schedule:
 
-1、20210622 init project
-
-2、20210623 go environment setup
-
-3、20210628 finish structure 
-
-4、20210725 start coding (拖延癌。。。)
-
-5、20210725 init raft
-
-6、20210802 add config
-
-7、20210816 finish raft
-
-8、20210820 fix bug & add test
-
-9、20210822 fix bug
+01、20210622 init project  
+02、20210623 go environment setup  
+03、20210628 finish structure   
+04、20210725 start coding (拖延癌。。。)  
+05、20210725 init raft  
+06、20210802 add config  
+07、20210816 finish raft  
+08、20210820 fix bug & add test  
+09、20210822 fix bug  
+10、20210901 init client&server demo   
+10、20210915 client&server write done la
