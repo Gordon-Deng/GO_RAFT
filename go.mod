@@ -1,4 +1,4 @@
-module rache
+module GO_RAFT
 
 go 1.13
 
