@@ -18,3 +18,5 @@ Add Schedule:
 6、20210802 add config
 
 7、20210816 finish raft
+
+8、20210820 fix bug & add test
