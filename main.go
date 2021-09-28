@@ -1,16 +1,16 @@
 package main
 
 import (
+	"GO_RAFT/conf"
+	"GO_RAFT/http"
+	"GO_RAFT/kv"
+	"GO_RAFT/raft"
 	"flag"
 	"google.golang.org/grpc"
 	"log"
 	"net"
 	"os"
 	"os/signal"
-	"GO_RAFT/conf"
-	"GO_RAFT/http"
-	"GO_RAFT/kv"
-	"GO_RAFT/raft"
 	"time"
 )
 

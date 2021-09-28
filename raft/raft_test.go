@@ -1,6 +1,7 @@
 package raft
 
 import (
+	"GO_RAFT/utils"
 	"crypto/md5"
 	"crypto/sha1"
 	"encoding/hex"
@@ -11,7 +12,6 @@ import (
 	"math/rand"
 	"net"
 	"os"
-	"GO_RAFT/utils"
 	"runtime"
 	"strconv"
 	"sync"

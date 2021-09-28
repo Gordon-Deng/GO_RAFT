@@ -1,9 +1,9 @@
 package http
 
 import (
+	"GO_RAFT/kv"
 	"io"
 	"net/http"
-	"GO_RAFT/kv"
 )
 
 var GetHandler = func(w http.ResponseWriter, r *http.Request) {
