@@ -7,10 +7,10 @@ import (
 	"net"
 	"os"
 	"os/signal"
-	"rache/conf"
-	"rache/http"
-	"rache/kv"
-	"rache/raft"
+	"GO_RAFT/conf"
+	"GO_RAFT/http"
+	"GO_RAFT/kv"
+	"GO_RAFT/raft"
 	"time"
 )
 

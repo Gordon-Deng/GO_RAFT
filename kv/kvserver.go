@@ -5,7 +5,7 @@ import (
 	"context"
 	"encoding/gob"
 	"github.com/gogo/protobuf/proto"
-	"rache/raft"
+	"GO_RAFT/raft"
 	"sync"
 	"time"
 )
